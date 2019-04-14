@@ -1,2 +1,9 @@
 venv/*
 venv
+drivers
+drivers/*
+.pytest_cache
+.pytest_cache/*
+homework_1/.pytest_cache
+.idea
+.idea/*
